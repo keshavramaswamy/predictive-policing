@@ -1,2 +1,2 @@
 # predictive-policing
-See issues.
+See issues for product requirements and sandbox discussion.
